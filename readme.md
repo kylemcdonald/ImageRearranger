@@ -10,7 +10,7 @@ First, install numpy, scipy, sklearn, matplotlib, [pyLAPJV](https://x.st/code.ht
 $ pip install -r requirements.txt
 ```
 
-Note that on MacOS you need to run some special commands to install Multicore-TSNE:
+Note that on MacOS you need to run some special commands to install Multicore-TSNE. Change the "6.3.0" below to a new version number when gcc updates (check the version with : 
 
 ```
 $ brew install gcc
