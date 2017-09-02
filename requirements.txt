@@ -3,4 +3,4 @@ scipy
 sklearn
 scikit-image
 matplotlib
-git+https://github.com/gatagat/lapjv.git
+git+https://github.com/gatagat/lap.git
