@@ -15,7 +15,7 @@ Note that on MacOS you need to run some [special commands](https://github.com/Dm
 Then clone this repository and run the example:
 
 ```
-$ git clone https://github.com/kylemcdonald/ImageRearranger.git
+$ git clone --recurse-submodules https://github.com/kylemcdonald/ImageRearranger.git
 $ cd ImageRearranger
 $ jupyter notebook
 ```
