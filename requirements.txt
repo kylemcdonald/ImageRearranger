@@ -1,6 +1,6 @@
 numpy
 scipy
-sklearn
-scikit-image
-matplotlib
+scikit-learn
+Pillow
+umap-learn
 git+https://github.com/gatagat/lap.git
